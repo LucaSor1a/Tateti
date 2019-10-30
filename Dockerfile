@@ -5,4 +5,4 @@ WORKDIR /Tateti
 
 RUN pip install parameterized
 
-CMD ["python3", "./Test_tateti.py"]
+CMD ["python3", "./test_tateti.py"]
